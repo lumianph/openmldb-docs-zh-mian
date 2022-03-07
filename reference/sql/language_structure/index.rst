@@ -1,10 +1,9 @@
 =============================
-OpenMLDB 文档 |version|
+语言结构
 =============================
 
 
 .. toctree::
     :maxdepth: 1
 
-    about/index 
-    reference/index
+    keywords 

@@ -1,10 +1,9 @@
 =============================
-OpenMLDB 文档 |version|
+参考
 =============================
 
 
 .. toctree::
     :maxdepth: 1
 
-    about/index 
-    reference/index
+    sql/index 
