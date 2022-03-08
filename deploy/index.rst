@@ -1,11 +1,10 @@
 =============================
-参考
+安装部署
 =============================
-
 
 .. toctree::
     :maxdepth: 1
 
-    cli
-    rest_api
-    sql/index 
+    compile
+    install_deploy
+    conf

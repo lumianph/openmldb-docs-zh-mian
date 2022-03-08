@@ -1,11 +1,8 @@
 =============================
-参考
+使用案例
 =============================
-
 
 .. toctree::
     :maxdepth: 1
 
-    cli
-    rest_api
-    sql/index 
+    taxi_tour_duration_prediction

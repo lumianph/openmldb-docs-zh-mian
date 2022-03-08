@@ -1,11 +1,9 @@
 =============================
-参考
+开发者文档
 =============================
-
 
 .. toctree::
     :maxdepth: 1
 
-    cli
-    rest_api
-    sql/index 
+    contributing
+    built_in_function_develop_guide

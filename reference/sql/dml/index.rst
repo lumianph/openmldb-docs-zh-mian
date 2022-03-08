@@ -1,11 +1,10 @@
 =============================
-参考
+数据操作语句（DML）
 =============================
 
 
 .. toctree::
     :maxdepth: 1
 
-    cli
-    rest_api
-    sql/index 
+    INSERT_STATEMENT
+    LOAD_DATA_STATEMENT

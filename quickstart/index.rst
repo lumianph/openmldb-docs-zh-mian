@@ -1,11 +1,11 @@
 =============================
-参考
+快速上手
 =============================
 
 
 .. toctree::
     :maxdepth: 1
 
-    cli
-    rest_api
-    sql/index 
+    openmldb_quickstart 
+    java_sdk
+    python_sdk

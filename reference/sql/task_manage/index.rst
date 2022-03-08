@@ -1,11 +1,12 @@
 =============================
-参考
+任务管理
 =============================
 
 
 .. toctree::
     :maxdepth: 1
 
-    cli
-    rest_api
-    sql/index 
+    SHOW_JOBS
+    SHOW_JOB
+    STOP_JOB
+    SUBMIT_JOB
